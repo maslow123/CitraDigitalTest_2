@@ -9,4 +9,4 @@ After that, open your postman for run this api with endpoint
 
 after that, please select the request body form. And for the key, you can input **Word** and for the value you can input what ever you want.
 
-Done.
+Finish.
